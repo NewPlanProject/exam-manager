@@ -1,6 +1,6 @@
-device-diagnosis:
+exam-manager:
     image: URL
-    hostname: device-diagnosis
+    hostname: exam-manager
     volumes:
     - /etc/localtime:/etc/localtime:ro
     ports:
